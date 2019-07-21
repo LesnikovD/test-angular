@@ -1,0 +1,16 @@
+#header {
+  background-color: darkgrey;
+}
+
+#cartBtn {
+  float: right;
+  margin-right: 5%;
+}
+
+#wishBtn {
+  float: right;
+}
+
+a {
+  text-decoration: none;
+}

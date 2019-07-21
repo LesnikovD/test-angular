@@ -1,0 +1,14 @@
+#products {
+  display: inline;
+  margin-left: 23%;
+}
+
+.product {
+  display: inline-block;
+  margin-left: 5%;
+}
+
+img {
+  width: 225px;
+  height: 500px;
+}
